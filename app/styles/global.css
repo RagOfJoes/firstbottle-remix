@@ -1,0 +1,184 @@
+@tailwind base;
+
+@layer base {
+  h1 {
+    font-size: 49px;
+    line-height: 1em;
+
+    @apply text-center font-tertiary;
+  }
+
+  h2 {
+    font-size: 39px;
+
+    @apply font-secondary font-medium;
+  }
+
+  h3 {
+    font-size: 16px;
+    letter-spacing: 0.02em;
+
+    @apply border-b border-b-ofs-border font-secondary font-normal uppercase;
+  }
+
+  h4 {
+    font-size: 16px;
+
+    @apply text-center font-medium uppercase tracking-widest text-ofs-secondary;
+  }
+
+  h5 {
+    font-size: 16px;
+
+    @apply font-primary font-bold;
+  }
+
+  p {
+    font-size: 16px;
+    line-height: 1.8;
+  }
+
+  a {
+    @apply text-ofs-primary hover:text-ofs-secondary hover:underline;
+  }
+
+  /* TODO: Migrate modular scale functionality */
+  @media (min-width: theme('screens.sm')) and (max-width: theme('screens.md')) {
+    h1 {
+      font-size: calc(49px + 18 * ((100vw - theme('screens.sm')) / 192));
+    }
+
+    h2 {
+      font-size: calc(39px + 12 * ((100vw - theme('screens.sm')) / 192));
+    }
+
+    h3 {
+      font-size: calc(16px * ((100vw - theme('screens.sm')) / 192));
+    }
+
+    h4 {
+      font-size: calc(16px * ((100vw - theme('screens.sm')) / 192));
+    }
+
+    h5 {
+      font-size: calc(16px * ((100vw - theme('screens.sm')) / 192));
+    }
+
+    p {
+      font-size: calc(16px * ((100vw - theme('screens.sm')) / 192));
+    }
+  }
+
+  @media (min-width: theme('screens.md')) and (max-width: theme('screens.lg')) {
+    h1 {
+      font-size: calc(67px * ((100vw - theme('screens.md')) / 224));
+    }
+
+    h2 {
+      font-size: calc(51px * ((100vw - theme('screens.md')) / 224));
+    }
+
+    h3 {
+      font-size: calc(16px * ((100vw - theme('screens.md')) / 224));
+    }
+
+    h4 {
+      font-size: calc(16px * ((100vw - theme('screens.md')) / 224));
+    }
+
+    h5 {
+      font-size: calc(16px * ((100vw - theme('screens.md')) / 224));
+    }
+
+    p {
+      font-size: calc(16px * ((100vw - theme('screens.md')) / 224));
+    }
+  }
+
+  @media (min-width: theme('screens.lg')) {
+    h1 {
+      font-size: 67px;
+    }
+
+    h2 {
+      font-size: 51px;
+    }
+
+    h3 {
+      font-size: 16px;
+    }
+
+    h4 {
+      font-size: 16px;
+    }
+
+    h5 {
+      font-size: 16px;
+    }
+
+    p {
+      font-size: 16px;
+    }
+  }
+}
+
+@tailwind components;
+
+@layer components {
+  /**
+   * ----
+   * Buttons
+   * ----
+   */
+
+  .btn {
+    height: 50px;
+    outline: none;
+    font-size: 25px;
+
+    @apply flex items-center justify-center font-secondary uppercase;
+  }
+
+  .btn-primary {
+    border-width: 1px 3px 3px 1px;
+
+    @apply border-ofs-secondary bg-ofs-primary text-center text-ofs-base;
+  }
+
+  .btn-primary:focus {
+    border-width: 2px;
+    box-shadow: 0 0 0 0.2rem rgba(70, 181, 156, 0.5);
+  }
+
+  .btn-primary:hover {
+    border-width: 2px;
+    background-color: #1e8970;
+
+    @apply text-ofs-base no-underline;
+  }
+
+  .btn-outline {
+    border-width: 1px 3px 3px 1px;
+
+    @apply border-ofs-secondary bg-ofs-base text-center text-ofs-primary;
+  }
+
+  .btn-outline:focus {
+    border-width: 2px;
+    box-shadow: 0 0 0 0.2rem rgba(70, 181, 156, 0.5);
+  }
+
+  .btn-outline:hover {
+    border-width: 2px;
+
+    @apply no-underline;
+  }
+
+  @media (min-width: theme('screens.lg')) {
+    .btn {
+      font-size: 28px;
+    }
+  }
+}
+
+@tailwind utilities;

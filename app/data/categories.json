@@ -1,0 +1,520 @@
+[
+  {
+    "id": "aa920d13-0495-4082-a425-e5bc12fe532e",
+    "createdAt": "2022-12-08T20:11:35.122Z",
+    "slug": "all-wines",
+    "title": "All Wines",
+    "subtitle": "",
+    "status": "ACTIVE",
+    "internalStatus": "ACTIVE",
+    "description": "",
+    "image": "",
+    "images": [],
+    "summary": "",
+    "seo": {
+      "title": "All Wines",
+      "description": ""
+    }
+  },
+  {
+    "id": "f2a161fc-d922-4743-b2da-0a7f5e6a37e5",
+    "createdAt": "2022-12-07T22:41:14.641Z",
+    "slug": "todays-featured-bottle",
+    "title": "Today’s Featured Bottle",
+    "subtitle": "",
+    "status": "ACTIVE",
+    "internalStatus": "ACTIVE",
+    "description": "",
+    "image": "",
+    "images": [],
+    "summary": "",
+    "seo": {
+      "title": "Today’s Featured Bottle",
+      "description": ""
+    }
+  },
+  {
+    "id": "c6bc4405-504f-4b43-aec0-bc94a8dcf04c",
+    "createdAt": "2022-12-07T21:53:41.672Z",
+    "slug": "farmer-fizz",
+    "title": "Farmer Fizz",
+    "subtitle": "",
+    "status": "ACTIVE",
+    "internalStatus": "ACTIVE",
+    "description": "Grower Champagne anyone? We thought so...our most popular sampler of all-time is back and better than ever!",
+    "image": "https://s3.amazonaws.com/efcheckout/firstbottle/collections/1604-1-233789.jpg",
+    "images": [
+      {
+        "id": "2ed99154-55b0-4493-9d59-692e0b1120fd",
+        "createdAt": "2022-12-08T00:18:18.782Z",
+        "type": "THUMBNAIL",
+        "attributes": {
+          "formats": {
+            "small": "https://s3.amazonaws.com/efcheckout/firstbottle/collections/1604-1-233789.jpg",
+            "medium": "https://s3.amazonaws.com/efcheckout/firstbottle/collections/1604-1-233789.jpg",
+            "large": "https://s3.amazonaws.com/efcheckout/firstbottle/collections/1604-1-233789.jpg"
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "seo": {
+      "title": "Farmer Fizz",
+      "description": "Grower Champagne anyone? We thought so...our most popular sampler of all-time is back and better than ever!"
+    }
+  },
+  {
+    "id": "07764c65-2712-40cf-9211-864e243c35b2",
+    "createdAt": "2022-12-08T02:59:44.518Z",
+    "slug": "kick-the-grill-up-a-notch",
+    "title": "Kick The Grill Up A Notch",
+    "subtitle": "",
+    "status": "ACTIVE",
+    "internalStatus": "ACTIVE",
+    "description": "We spent some time putting together some PERFECT complements to your summer BBQ! This collection is dedicated to serious wines at VERY fine pricing for sipping and sharing while you bake, fry, saute and even sous vides.",
+    "image": "https://s3.amazonaws.com/efcheckout/firstbottle/collections/1607-1-847957.jpg",
+    "images": [
+      {
+        "id": "49691bf4-f556-4704-b582-ac8e6b401b1f",
+        "createdAt": "2022-12-09T01:18:18.782Z",
+        "type": "THUMBNAIL",
+        "attributes": {
+          "formats": {
+            "small": "https://s3.amazonaws.com/efcheckout/firstbottle/collections/1607-1-847957.jpg",
+            "medium": "https://s3.amazonaws.com/efcheckout/firstbottle/collections/1607-1-847957.jpg",
+            "large": "https://s3.amazonaws.com/efcheckout/firstbottle/collections/1607-1-847957.jpg"
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "seo": {
+      "title": "Kick The Grill Up A Notch",
+      "description": "We spent some time putting together some PERFECT complements to your summer BBQ! This collection is dedicated to serious wines at VERY fine pricing for sipping and sharing while you bake, fry, saute and even sous vides."
+    }
+  },
+  {
+    "id": "77b0d1f1-fee0-4c0a-a079-8cca7c29f0e5",
+    "createdAt": "2022-12-07T22:39:52.221Z",
+    "slug": "kick-ass-napa-cabs",
+    "title": "Kick Ass Napa Cabs",
+    "subtitle": "",
+    "status": "ACTIVE",
+    "internalStatus": "ACTIVE",
+    "description": "Pretty self-explanatory, right? Cabernet RULES in the Napa Valley, for a good reason. Click here to see our current blockbusters.",
+    "image": "https://s3.amazonaws.com/efcheckout/firstbottle/collections/1606-1-602836.jpg",
+    "images": [
+      {
+        "id": "b904963a-b9ce-44a8-ab5b-961382b32a51",
+        "createdAt": "2022-12-08T01:18:18.782Z",
+        "type": "THUMBNAIL",
+        "attributes": {
+          "formats": {
+            "small": "https://s3.amazonaws.com/efcheckout/firstbottle/collections/1606-1-602836.jpg",
+            "medium": "https://s3.amazonaws.com/efcheckout/firstbottle/collections/1606-1-602836.jpg",
+            "large": "https://s3.amazonaws.com/efcheckout/firstbottle/collections/1606-1-602836.jpg"
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "seo": {
+      "title": "Kick Ass Napa Cabs",
+      "description": "Pretty self-explanatory, right? Cabernet RULES in the Napa Valley, for a good reason. Click here to see our current blockbusters."
+    }
+  },
+  {
+    "id": "b5550fa3-9f0b-406d-aab3-014fbe359e05",
+    "createdAt": "2022-12-08T12:08:59.914Z",
+    "slug": "checkout-upsell",
+    "title": "Checkout Upsell",
+    "subtitle": "",
+    "status": "ACTIVE",
+    "internalStatus": "ACTIVE",
+    "description": "",
+    "image": "",
+    "images": [],
+    "summary": "",
+    "seo": {
+      "title": "Checkout Upsell",
+      "description": ""
+    }
+  },
+  {
+    "id": "80a2f480-4008-4a6f-91fd-174eee1e37af",
+    "createdAt": "2022-12-08T03:47:07.125Z",
+    "slug": "sold-out",
+    "title": "Sold Out",
+    "subtitle": "",
+    "status": "ACTIVE",
+    "internalStatus": "ACTIVE",
+    "description": "",
+    "image": "",
+    "images": [],
+    "summary": "",
+    "seo": {
+      "title": "Sold Out",
+      "description": ""
+    }
+  },
+  {
+    "id": "a49b729a-a261-4a9d-9938-6ff0631c07e1",
+    "createdAt": "2022-12-08T18:53:36.379Z",
+    "slug": "champagne",
+    "title": "Champagne",
+    "subtitle": "",
+    "status": "ACTIVE",
+    "internalStatus": "ACTIVE",
+    "description": "",
+    "image": "https://s3.amazonaws.com/efcheckout/firstbottle/category/29-7967.jpg",
+    "images": [
+      {
+        "id": "98bfe6c8-783d-4b1d-b149-9d7a03136cba",
+        "createdAt": "2022-12-08T03:19:18.782Z",
+        "type": "THUMBNAIL",
+        "attributes": {
+          "formats": {
+            "small": "https://s3.amazonaws.com/efcheckout/firstbottle/category/29-7967.jpg",
+            "medium": "https://s3.amazonaws.com/efcheckout/firstbottle/category/29-7967.jpg",
+            "large": "https://s3.amazonaws.com/efcheckout/firstbottle/category/29-7967.jpg"
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "seo": {
+      "title": "Champagne",
+      "description": ""
+    }
+  },
+  {
+    "id": "7f455955-7ce7-496e-90b2-8853226c0632",
+    "createdAt": "2022-12-07T22:40:34.663Z",
+    "slug": "hundred-point-winemakers",
+    "title": "One Hundred Point Winemakers",
+    "subtitle": "",
+    "status": "ACTIVE",
+    "internalStatus": "ACTIVE",
+    "description": "",
+    "image": "https://s3.amazonaws.com/efcheckout/firstbottle/category/30-6983.jpg",
+    "images": [
+      {
+        "id": "ff8e1caa-41a9-4cc8-b7fe-e2234202fb39",
+        "createdAt": "2022-12-08T07:16:36.726Z",
+        "type": "THUMBNAIL",
+        "attributes": {
+          "formats": {
+            "small": "https://s3.amazonaws.com/efcheckout/firstbottle/category/30-6983.jpg",
+            "medium": "https://s3.amazonaws.com/efcheckout/firstbottle/category/30-6983.jpg",
+            "large": "https://s3.amazonaws.com/efcheckout/firstbottle/category/30-6983.jpg"
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "seo": {
+      "title": "One Hundred Point Winemakers",
+      "description": ""
+    }
+  },
+  {
+    "id": "2cbf4552-b861-4240-a947-b7ba3911d323",
+    "createdAt": "2022-12-07T23:10:28.681Z",
+    "slug": "chardonnay",
+    "title": "Chardonnay",
+    "subtitle": "",
+    "status": "ACTIVE",
+    "internalStatus": "ACTIVE",
+    "description": "",
+    "image": "https://s3.amazonaws.com/efcheckout/firstbottle/category/31-8559.jpg",
+    "images": [
+      {
+        "id": "f2d1d87a-20ee-4bb5-8394-d105cdd52bc1",
+        "createdAt": "2022-12-08T15:21:33.442Z",
+        "type": "THUMBNAIL",
+        "attributes": {
+          "formats": {
+            "small": "https://s3.amazonaws.com/efcheckout/firstbottle/category/31-8559.jpg",
+            "medium": "https://s3.amazonaws.com/efcheckout/firstbottle/category/31-8559.jpg",
+            "large": "https://s3.amazonaws.com/efcheckout/firstbottle/category/31-8559.jpg"
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "seo": {
+      "title": "Chardonnay",
+      "description": ""
+    }
+  },
+  {
+    "id": "1a201cff-d5fe-4cb8-a065-bf61d7d4411e",
+    "createdAt": "2022-12-08T20:19:09.034Z",
+    "slug": "pinot-noir",
+    "title": "Pinot Noir",
+    "subtitle": "",
+    "status": "ACTIVE",
+    "internalStatus": "ACTIVE",
+    "description": "",
+    "image": "https://s3.amazonaws.com/efcheckout/firstbottle/category/32-2726.jpg",
+    "images": [
+      {
+        "id": "40c1d518-1d90-4206-9433-1bdba37c3a19",
+        "createdAt": "2022-12-08T03:35:11.218Z",
+        "type": "THUMBNAIL",
+        "attributes": {
+          "formats": {
+            "small": "https://s3.amazonaws.com/efcheckout/firstbottle/category/32-2726.jpg",
+            "medium": "https://s3.amazonaws.com/efcheckout/firstbottle/category/32-2726.jpg",
+            "large": "https://s3.amazonaws.com/efcheckout/firstbottle/category/32-2726.jpg"
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "seo": {
+      "title": "Pinot Noir",
+      "description": ""
+    }
+  },
+  {
+    "id": "ee801c4a-5c7e-498a-aa5c-0791dd24bd03",
+    "createdAt": "2022-12-08T17:26:10.741Z",
+    "slug": "organic-farming",
+    "title": "Organic Farming",
+    "subtitle": "",
+    "status": "ACTIVE",
+    "internalStatus": "ACTIVE",
+    "description": "",
+    "image": "https://s3.amazonaws.com/efcheckout/firstbottle/category/33-7230.jpg",
+    "images": [
+      {
+        "id": "50aaee32-a795-4bf3-a48d-eb24ee358d69",
+        "createdAt": "2022-12-08T15:43:35.703Z",
+        "type": "THUMBNAIL",
+        "attributes": {
+          "formats": {
+            "small": "https://s3.amazonaws.com/efcheckout/firstbottle/category/33-7230.jpg",
+            "medium": "https://s3.amazonaws.com/efcheckout/firstbottle/category/33-7230.jpg",
+            "large": "https://s3.amazonaws.com/efcheckout/firstbottle/category/33-7230.jpg"
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "seo": {
+      "title": "Organic Farming",
+      "description": ""
+    }
+  },
+  {
+    "id": "4ab977d7-74d5-4a7d-b38b-c70080bde977",
+    "createdAt": "2022-12-08T14:11:25.418Z",
+    "slug": "cult-wineries",
+    "title": "Cult Wineries",
+    "subtitle": "",
+    "status": "ACTIVE",
+    "internalStatus": "ACTIVE",
+    "description": "",
+    "image": "https://s3.amazonaws.com/efcheckout/firstbottle/category/34-2726.jpg",
+    "images": [
+      {
+        "id": "aa4ea464-43d1-4dee-9b68-79d19f5a306d",
+        "createdAt": "2022-12-08T05:09:45.508Z",
+        "type": "THUMBNAIL",
+        "attributes": {
+          "formats": {
+            "small": "https://s3.amazonaws.com/efcheckout/firstbottle/category/34-2726.jpg",
+            "medium": "https://s3.amazonaws.com/efcheckout/firstbottle/category/34-2726.jpg",
+            "large": "https://s3.amazonaws.com/efcheckout/firstbottle/category/34-2726.jpg"
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "seo": {
+      "title": "Cult Wineries",
+      "description": ""
+    }
+  },
+  {
+    "id": "dcee885b-69cf-441e-b251-f347a53a93f3",
+    "createdAt": "2022-12-08T19:26:43.986Z",
+    "slug": "food-wine-pairings",
+    "title": "Food & Wine Pairings",
+    "subtitle": "",
+    "status": "ACTIVE",
+    "internalStatus": "ACTIVE",
+    "description": "",
+    "image": "https://s3.amazonaws.com/efcheckout/firstbottle/category/35-3038.jpg",
+    "images": [
+      {
+        "id": "1ef6941b-1e22-49e9-8817-bcd08fc7a82e",
+        "createdAt": "2022-12-08T19:13:51.375Z",
+        "type": "THUMBNAIL",
+        "attributes": {
+          "formats": {
+            "small": "https://s3.amazonaws.com/efcheckout/firstbottle/category/35-3038.jpg",
+            "medium": "https://s3.amazonaws.com/efcheckout/firstbottle/category/35-3038.jpg",
+            "large": "https://s3.amazonaws.com/efcheckout/firstbottle/category/35-3038.jpg"
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "seo": {
+      "title": "Food & Wine Pairings",
+      "description": ""
+    }
+  },
+  {
+    "id": "98ee0a65-5c00-426f-bc06-b35658d90748",
+    "createdAt": "2022-12-08T03:02:54.600Z",
+    "slug": "cabernet-sauvignon",
+    "title": "Cabernet Sauvignon",
+    "subtitle": "",
+    "status": "ACTIVE",
+    "internalStatus": "ACTIVE",
+    "description": "",
+    "image": "https://s3.amazonaws.com/efcheckout/firstbottle/category/36-7899.jpg",
+    "images": [
+      {
+        "id": "85f78773-c1ac-4532-802b-f678e8decbd3",
+        "createdAt": "2022-12-08T18:39:27.613Z",
+        "type": "THUMBNAIL",
+        "attributes": {
+          "formats": {
+            "small": "https://s3.amazonaws.com/efcheckout/firstbottle/category/36-7899.jpg",
+            "medium": "https://s3.amazonaws.com/efcheckout/firstbottle/category/36-7899.jpg",
+            "large": "https://s3.amazonaws.com/efcheckout/firstbottle/category/36-7899.jpg"
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "seo": {
+      "title": "Cabernet Sauvignon",
+      "description": ""
+    }
+  },
+  {
+    "id": "055ca23b-b918-4d73-97b3-40816c3c206d",
+    "createdAt": "2022-12-08T15:42:13.047Z",
+    "slug": "somm-picks",
+    "title": "Somm. Picks",
+    "subtitle": "",
+    "status": "ACTIVE",
+    "internalStatus": "ACTIVE",
+    "description": "",
+    "image": "https://s3.amazonaws.com/efcheckout/firstbottle/category/37-4036.jpg",
+    "images": [
+      {
+        "id": "91efdee7-eb92-4409-9135-3e96b6d14a59",
+        "createdAt": "2022-12-08T10:51:31.463Z",
+        "type": "THUMBNAIL",
+        "attributes": {
+          "formats": {
+            "small": "https://s3.amazonaws.com/efcheckout/firstbottle/category/37-4036.jpg",
+            "medium": "https://s3.amazonaws.com/efcheckout/firstbottle/category/37-4036.jpg",
+            "large": "https://s3.amazonaws.com/efcheckout/firstbottle/category/37-4036.jpg"
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "seo": {
+      "title": "Somm. Picks",
+      "description": ""
+    }
+  },
+  {
+    "id": "5ee0ae98-d263-4598-98fe-df7e2f5d4d5a",
+    "createdAt": "2022-12-08T01:38:40.767Z",
+    "slug": "vinous-values",
+    "title": "Vinous Values",
+    "subtitle": "",
+    "status": "ACTIVE",
+    "internalStatus": "ACTIVE",
+    "description": "",
+    "image": "https://s3.amazonaws.com/efcheckout/firstbottle/category/38-5751.jpg",
+    "images": [
+      {
+        "id": "75395ea9-2253-4a76-9ab9-b46b48a20b44",
+        "createdAt": "2022-12-08T05:09:58.653Z",
+        "type": "THUMBNAIL",
+        "attributes": {
+          "formats": {
+            "small": "https://s3.amazonaws.com/efcheckout/firstbottle/category/38-5751.jpg",
+            "medium": "https://s3.amazonaws.com/efcheckout/firstbottle/category/38-5751.jpg",
+            "large": "https://s3.amazonaws.com/efcheckout/firstbottle/category/38-5751.jpg"
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "seo": {
+      "title": "Vinous Values",
+      "description": ""
+    }
+  },
+  {
+    "id": "367927a1-0627-4abc-aef0-00f74cdb08f2",
+    "createdAt": "2022-12-08T14:11:29.130Z",
+    "slug": "rising-stars",
+    "title": "Rising Stars",
+    "subtitle": "",
+    "status": "ACTIVE",
+    "internalStatus": "ACTIVE",
+    "description": "",
+    "image": "https://s3.amazonaws.com/efcheckout/firstbottle/category/39-6248.jpg",
+    "images": [
+      {
+        "id": "a1184c89-8d46-48e2-bcbd-12b8ee1953a8",
+        "createdAt": "2022-12-08T18:19:57.392Z",
+        "type": "THUMBNAIL",
+        "attributes": {
+          "formats": {
+            "small": "https://s3.amazonaws.com/efcheckout/firstbottle/category/39-6248.jpg",
+            "medium": "https://s3.amazonaws.com/efcheckout/firstbottle/category/39-6248.jpg",
+            "large": "https://s3.amazonaws.com/efcheckout/firstbottle/category/39-6248.jpg"
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "seo": {
+      "title": "Rising Stars",
+      "description": ""
+    }
+  },
+  {
+    "id": "816e0f81-ef70-4152-b120-33cfaa49b3b4",
+    "createdAt": "2022-12-08T00:01:44.422Z",
+    "slug": "95-pts-under-50",
+    "title": "95+ pts Under $50",
+    "subtitle": "",
+    "status": "ACTIVE",
+    "internalStatus": "ACTIVE",
+    "description": "",
+    "image": "https://s3.amazonaws.com/efcheckout/firstbottle/category/41-1608.jpg",
+    "images": [
+      {
+        "id": "3a0e95b1-2770-47e4-95f8-b34af6e5f611",
+        "createdAt": "2022-12-08T02:10:26.040Z",
+        "type": "THUMBNAIL",
+        "attributes": {
+          "formats": {
+            "small": "https://s3.amazonaws.com/efcheckout/firstbottle/category/41-1608.jpg",
+            "medium": "https://s3.amazonaws.com/efcheckout/firstbottle/category/41-1608.jpg",
+            "large": "https://s3.amazonaws.com/efcheckout/firstbottle/category/41-1608.jpg"
+          }
+        }
+      }
+    ],
+    "summary": "",
+    "seo": {
+      "title": "95+ pts Under $50",
+      "description": ""
+    }
+  }
+]
