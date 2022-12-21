@@ -36,25 +36,25 @@ export const loader = async () => {
     (c) => c.slug === 'todays-featured-bottle'
   );
   if (!featuredCategory) {
-    throw new Error('Failed to fetch featured category');
+    throw json('Failed to fetch featured category', { status: 500 });
   }
 
   const featuredProductSKUs =
     productCategories[featuredCategory.title as keyof typeof productCategories];
   if (!featuredProductSKUs || featuredProductSKUs.length !== 1) {
-    throw new Error('Failed to fetch featured category products');
+    throw json('Failed to fetch featured category products', { status: 500 });
   }
 
   const featuredProduct = allProducts.find((p) =>
     p.variants.find((v) => v.sku === featuredProductSKUs[0]!)
   );
   if (!featuredProduct) {
-    throw new Error('Failed to fetch featured product');
+    throw json('Failed to fetch featured product', { status: 500 });
   }
 
   const newArrivals = paginateProducts(allProducts, { limit: 10 });
   if (!newArrivals) {
-    throw new Error('Failed to fetch new arrivals');
+    throw json('Failed to fetch new arrivals', { status: 500 });
   }
 
   const samplers = allCategories.filter((category) =>
