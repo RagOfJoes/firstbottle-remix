@@ -28,7 +28,7 @@ What this isn't:
 - [x] Create global app provider
   - This'll be used for global states like client config, client CMS, etc.
 - [x] Create home page
-- [ ] Create product detail page
+- [x] Create product detail page
 - [ ] Create wines page
 - [ ] Create collections/samplers page
 - [ ] Create session provider for cart and (in the future) auth info
