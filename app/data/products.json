@@ -11068,7 +11068,7 @@
         "maxPurchaseQuantity": 36,
         "minPurchaseQuantity": 1,
         "minShippingOffer": 0,
-        "isComparable": false,
+        "isComparable": true,
         "isDiscountEligible": true,
         "isFeatured": false,
         "isFreeShipping": false,
