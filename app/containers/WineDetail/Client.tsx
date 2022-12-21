@@ -21,6 +21,9 @@ export const meta: MetaFunction<typeof loader> = ({ data }) => {
   return {
     title: `${seo?.title || title} - First Bottle`,
     description: seo?.description || description,
+
+    // Open Graph
+    'og:description': seo?.description || description,
   };
 };
 
