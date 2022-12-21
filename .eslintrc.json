@@ -55,6 +55,7 @@
       },
       "plugins": ["@typescript-eslint", "react"],
       "rules": {
+        "@typescript-eslint/no-throw-literal": "off",
         "@typescript-eslint/no-unused-vars": "off",
         "import/extensions": "off",
         "import/prefer-default-export": "off",
