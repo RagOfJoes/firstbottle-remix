@@ -19,6 +19,8 @@ const Next = forwardRef<HTMLButtonElement, ProductCarouselNextProps>(
     const numOfSlides = instanceRef.current.track.details.slides.length;
     const slidesPerView =
       (instanceRef.current.options.slides as any)?.perView || 0;
+    const hasNextPage =
+      instanceRef.current.track.details.slides.length > slidesPerView;
     const isAtEnd =
       value === instanceRef.current.track.details.slides.length - slidesPerView;
 
@@ -51,7 +53,7 @@ const Next = forwardRef<HTMLButtonElement, ProductCarouselNextProps>(
           // Hover
           'hover:opacity-100',
           {
-            'opacity-0': isAtEnd,
+            'opacity-0': !hasNextPage || isAtEnd,
           },
           className
         )}
